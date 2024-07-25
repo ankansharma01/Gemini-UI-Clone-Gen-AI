@@ -1,5 +1,5 @@
 >DESCRIPTION:
-This project aims to clone the Gemini platform and enhance it with artificial intelligence capabilities using Google's Gen AI API. The application is built using React.js for the frontend and integrates various backend services for data management and AI processing.
+This project aims to clone the Gemini platform and enhance it with artificial intelligence capabilities using GEMINI AI API. The application is built using React.js for the frontend and integrates various backend services for data management and AI processing.
 
 >FEATURES:
 Gemini Clone: Mimics the core features and UI/UX of Gemini.
